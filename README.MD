@@ -1,4 +1,4 @@
-<h1 align="center">DAT158-ML-Oblig2/</h1>
+<h1 align="center">DAT158-ML-Oblig2</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/MrHencke/DAT158-ML-Oblig2?color=56BEB8">
