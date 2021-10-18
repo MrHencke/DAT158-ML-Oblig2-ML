@@ -8,7 +8,7 @@
     2.1 [Importing the data](#data-import)<br/>
     2.2 [Data Exploration](#data-explore)<br/>
     2.3 [Data Visualization](#data-visualize) <br/>
-    2.4 [Feature Engineering](#data-enginering) <pre>
+    2.4 [Feature Engineering](#data-engineering) <pre>
 
 3. [Data Preparation (Pipelining)](#pipelining) <br/>
     3.1 [Custom Attributes Pipeline](#idk) <br/>
