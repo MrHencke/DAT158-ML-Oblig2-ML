@@ -32,6 +32,7 @@ dependencies:
   - pdpbox
   - nbdime
   - python-dotenv
+  - tensorflow
  # - pycaret
   - gunicorn
   
