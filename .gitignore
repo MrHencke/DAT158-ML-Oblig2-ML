@@ -163,5 +163,4 @@ datasets/t10k-images-idx3-ubyte
 datasets/t10k-labels-idx1-ubyte
 datasets/train-images-idx3-ubyte
 .gitignore
-models/knn.pkl
 datasets/train-labels-idx1-ubyte
