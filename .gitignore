@@ -156,7 +156,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 throwawaylater/
-.csv
+*.csv
 datasets/fashion-mnist_test.csv
 datasets/fashion-mnist_train.csv
 datasets/t10k-images-idx3-ubyte
@@ -164,3 +164,6 @@ datasets/t10k-labels-idx1-ubyte
 datasets/train-images-idx3-ubyte
 .gitignore
 datasets/train-labels-idx1-ubyte
+csv/fashion-mnist_test.csv
+csv/fashion-mnist_train.csv
+datasets/placeholder.tmp
